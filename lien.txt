@@ -1,0 +1,8 @@
+SVG guidelines :
+https://developer.mozilla.org/enUS/docs/Mozilla/Developer_guide/SVG_Guidelines 
+
+
+
+
+W3C vibration API :
+https://www.w3.org/TR/vibration/ 
